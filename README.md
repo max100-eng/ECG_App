@@ -1,15 +1,13 @@
 ---
-title: ECG App
-emoji: 📉
-colorFrom: purple
-colorTo: purple
-sdk: gradio
-sdk_version: 5.49.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: ECG interpretation
+title: "Análisis de ECG con DenseNet (8 Clases)"
+emoji: "🩺"
+colorFrom: "gray"
+SDK: "gradio"
+app_file: "app.py"
 ---
+# Análisis de ECG con DenseNet201
+Aquí puedes subir una imagen de un ECG para clasificar entre las 8 condiciones cardíacas.
+
 
 
 
