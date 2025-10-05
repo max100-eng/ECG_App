@@ -1,4 +1,4 @@
-metadata
+---
 title: ECG App
 emoji: 📉
 colorFrom: purple
@@ -9,9 +9,7 @@ app_file: app.py
 pinned: false
 license: mit
 short_description: ECG interpretation
-
-        
-```
+---
 
 
 
